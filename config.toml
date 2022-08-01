@@ -22,7 +22,7 @@ defaultContentLanguageInSubdir = false
 pluralizeListTitles = false
 
 # 摘要的字数限制
-summaryLength = 45
+summaryLength = 42
 
 # 是否开启 GitHub 风格的 Emoji 书写方式
 enableEmoji = false
@@ -837,7 +837,7 @@ uglyURLs = false
     # 说明：留空（""）则回退到锚点符号
 
     # 是否开启锚点链接
-    enableAnchorLink = true
+    enableAnchorLink = false
 
     # 是否自动隐藏锚点
     enableAnchorAutoHide = true
@@ -1138,7 +1138,7 @@ uglyURLs = false
     # 相关文章
 
     # 是否开启
-    enableRelatedPosts = true
+    enableRelatedPosts = false
 
     # 是否显示（全局设置）
     displayRelatedPosts = true
