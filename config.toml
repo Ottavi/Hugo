@@ -1,7 +1,7 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://hugo-one-wheat.vercel.app/"
+baseURL = "https://hugo-one-vert.vercel.app/"
 title = "云屋出租"
 languageCode = "zh-CN"
 hasCJKLanguage = true
