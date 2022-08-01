@@ -1,12 +1,12 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://hugo-one-wheat.vercel.app/"
-title = "云屋出租"
+baseURL = "https://example.com/"
+title = "Hugo 主题 MemE"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
-copyright = ""
+copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)"
 
 # 主题选择
 theme = "meme"
@@ -22,7 +22,7 @@ defaultContentLanguageInSubdir = false
 pluralizeListTitles = false
 
 # 摘要的字数限制
-summaryLength = 45
+summaryLength = 42
 
 # 是否开启 GitHub 风格的 Emoji 书写方式
 enableEmoji = false
@@ -96,17 +96,17 @@ uglyURLs = false
 # 作者信息
 [author]
     # 名字
-    name = ""
+    name = "reuixiy"
     # 邮箱
-    email = ""
+    email = "reuixiy@gmail.com"
     # 座右铭或简介
-    motto = ""
+    motto = "Viva La Vida"
     # 头像
-    avatar = ""
+    avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
-    website = ""
-    # 
-    twitter = ""
+    website = "https://io-oi.me/"
+    # 推特
+    twitter = "reuixiy"
 
 # 相关文章
 [related]
@@ -338,16 +338,16 @@ uglyURLs = false
     # 说明：用于 JSON-LD、Open Graph
 
     # 站点的描述
-    siteDescription = ""
+    siteDescription = "MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。"
     # 说明：用于 HTML 的头部元数据、JSON-LD、
     #      Open Graph、Atom、RSS
 
     # 站点的创建时间
-    siteCreatedTime = "2022-07-13T20:17:43+00:00"
+    siteCreatedTime = "1969-07-20T20:17:43+00:00"
     # 注意：请保持此格式，更改数字
 
     # 站点的推特帐号
-    siteTwitter = ""
+    siteTwitter = "reuixiy"
     # 说明：用于 Twitter Cards
 
 
@@ -412,7 +412,7 @@ uglyURLs = false
     # 列表页面
 
     # 宽度
-    listWidth = 45
+    listWidth = 36
     # 说明：如果留空（""），则用 42 作为默认值
     #      单位：em
 
@@ -431,7 +431,7 @@ uglyURLs = false
     groupByMonth = true
 
     # 是否开启十二生肖
-    chineseZodiac = false
+    chineseZodiac = true
 
     # 是否翻译年份（仅对年份标题有效）
     i18nYear = true
@@ -535,7 +535,7 @@ uglyURLs = false
 
     jsonLD = true
     openGraph = true
-    twitterCards = false
+    twitterCards = true
     # 注意：如果你设置 twitterCards 为 `true`，
     #      请务必开启 openGraph。否则，网页的
     #      Twitter Cards 信息将会不完整。
@@ -595,12 +595,12 @@ uglyURLs = false
     # 说明：仅在生产环境（production）下渲染
 
     # 是否开启（全局设置）
-    enableComments = true
+    enableComments = false
     # 说明：文章的 Front Matter 中的 `comments`
     #      的优先级高于此处
 
     # 直接加载评论，不需要手动点击按钮加载
-    autoLoadComments = true
+    autoLoadComments = false
 
     ## Disqus
     enableDisqus = false
@@ -711,7 +711,7 @@ uglyURLs = false
     # 注意：只支持 HSL 颜色值
 
     # 文章的内容宽度
-    postWidth = 45
+    postWidth = 36
     # 说明：如果留空（""），则用 42 作为默认值
     #      单位：em
 
@@ -752,12 +752,12 @@ uglyURLs = false
     publishedDateIcon = "calendar-alt"
 
     # 是否显示修改时间
-    displayModifiedDate = false
+    displayModifiedDate = true
     # 修改时间的图标
     modifiedDateIcon = "calendar-check"
 
     # 是否显示过期时间
-    displayExpiredDate = false
+    displayExpiredDate = true
     # 过期时间的图标
     expiredDateIcon = "calendar-times"
 
@@ -1113,7 +1113,7 @@ uglyURLs = false
     # 文章分享
 
     # 是否开启
-    enablePostShare = false
+    enablePostShare = true
 
     # 是否显示（全局设置）
     displayPostShare = true
@@ -1176,21 +1176,21 @@ uglyURLs = false
     enablePostNav = true
 
     # 是否仅限于相同的文章分区
-    postNavInSection = false
+    postNavInSection = true
 
 
     ######################################
     # 极简页脚
 
     # 是否开启
-    enableMinimalFooter = true
-    enableVerticalBarStructure = true
+    enableMinimalFooter = false
+    enableVerticalBarStructure = false
     # 说明：如果开启此项，显示在右边的部类或分区
     #      将会包含全部的第一级部类或分区，并且
     #      以竖线（|）分隔开来。
 
     # 是否开启关于页面的极简页脚
-    enableAboutPageMinimalFooter = true
+    enableAboutPageMinimalFooter = false
 
 
     ######################################
@@ -1232,14 +1232,14 @@ uglyURLs = false
     displaySiteCreatedYear = true
 
     # 年份与作者之间的图标，留空（""）则无
-    iconBetweenYearAndAuthor = ""
+    iconBetweenYearAndAuthor = "heart"
     # 图标颜色
     iconColor = "#f06292"
     # 是否开启图标的跳动效果
     iconAnimation = true
 
     # 是否显示 Hugo 和 MemE 的链接
-    displayPoweredBy = false
+    displayPoweredBy = true
 
     # 是否显示站点的版权信息
     displaySiteCopyright = true
@@ -1257,7 +1257,7 @@ uglyURLs = false
     #      https://busuanzi.ibruce.info/
 
     # 社交链接
-    enableSocials = false
+    enableSocials = true
     # 说明：见 data/Socials.toml
 
 
