@@ -68,6 +68,7 @@ blockquote {
     font-style: normal;
     font-size: 15px;
     font-family: SimSun,bitstream charter,serif;
+    color:rgb(90, 90, 90)
     border-left: 3px solid;
     border-color: rgb(123, 144, 171);
     padding-left: 20px;
