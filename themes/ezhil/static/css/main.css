@@ -1,10 +1,10 @@
 body {
     font-family: "SimSun", sans-serif;
-    font-weight: 400;
+    font-weight: 500;
     color: rgb(0, 0, 0);
     background-color: rgb(247, 247, 247);
     line-height: 1.6;
-    font-size: 16px;
+    font-size: 17px;
 }
 
 a, a:hover {
@@ -64,7 +64,7 @@ textarea {
 blockquote {
     margin-left: 1rem;
     font-style: normal;
-    font-size: 1.4rem;
+    font-size: 0.8rem;
     font-family: SimSun,bitstream charter,serif;
     border-left: 3px solid;
     border-color: rgb(123, 144, 171);
