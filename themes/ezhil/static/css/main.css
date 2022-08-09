@@ -1,8 +1,8 @@
 body {
-    font-family: "PingFangSC-Regular", sans-serif;
+    font-family: "SimSun", sans-serif;
     font-weight: 400;
     color: rgb(0, 0, 0);
-    background-color: rgb(201, 201, 201);
+    background-color: rgb(247, 247, 247);
     line-height: 1.6;
     font-size: 16px;
 }
@@ -65,7 +65,7 @@ blockquote {
     margin-left: 1rem;
     font-style: normal;
     font-size: 1.4rem;
-    font-family: Georgia,bitstream charter,serif;
+    font-family: SimSun,bitstream charter,serif;
     border-left: 3px solid;
     border-color: rgb(123, 144, 171);
     padding-left: 20px;
@@ -90,7 +90,7 @@ a:hover {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: raleway,sans-serif;
+    font-family: "SimSun",raleway,sans-serif;
     line-height: 1.2;
     color: rgb(0, 0, 0);
     font-weight: 200;
