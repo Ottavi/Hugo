@@ -4,7 +4,7 @@ body {
     color: rgb(0, 0, 0);
     background-color: rgb(247, 247, 247);
     line-height: 1.7;
-    font-size: 15px;
+    font-size: 16px;
 }
 
 a, a:hover {
@@ -64,7 +64,7 @@ textarea {
 blockquote {
     margin-left: 1rem;
     font-style: normal;
-    font-size: 0.8rem;
+    font-size: 15px;
     font-family: SimSun,bitstream charter,serif;
     border-left: 3px solid;
     border-color: rgb(123, 144, 171);
@@ -93,7 +93,7 @@ h1,h2,h3,h4,h5,h6 {
     font-family: "SimSun",raleway,sans-serif;
     line-height: 1.2;
     color: rgb(0, 0, 0);
-    font-weight: 200;
+    font-weight: 700;
 }
 
 h1 {
