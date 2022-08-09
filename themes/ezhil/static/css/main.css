@@ -5,6 +5,8 @@ body {
     background-color: rgb(247, 247, 247);
     line-height: 1.7;
     font-size: 16px;
+    text-align: justify;
+    hyphens: auto;
 }
 
 a, a:hover {
@@ -91,7 +93,7 @@ a:hover {
 
 h1,h2,h3,h4,h5,h6 {
     font-family: "SimSun",raleway,sans-serif;
-    line-height: 1.2;
+    line-height: 1.5;
     color: rgb(0, 0, 0);
     font-weight: 700;
 }
