@@ -3,7 +3,6 @@
 	<h1 class="site-title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
 	<div class="site-description">
 		{{- if isset .Site.Params "subtitle" -}}
-		</br></br>
 		<h2><font size="-0.5">{{ .Site.Params.Subtitle | markdownify }}</font></h2>
 		{{- end -}}
 		<nav class="nav social">
@@ -19,7 +18,7 @@
 		<ul class="flat">
 			{{ range .Site.Menus.main }}
 			<li>
-				<a href="{{ .URL }}">{{ .Name }}</a>
+				<font size="-0.5"><a href="{{ .URL }}">{{ .Name }}</font></a>
 			</li>
 			{{ end }}
 		</ul>
