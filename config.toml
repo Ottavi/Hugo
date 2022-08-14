@@ -1,11 +1,12 @@
 baseURL = "https://hugo-one-vert.vercel.app/"
-languageCode = "zh"
+languageCode = "zh-cn"
 title = "云屋出租"
 theme = "cactus"
 copyright = "云屋出租" # cactus will use title if copyright is not set
 disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
 # googleAnalytics = "UA-1234-5"
-
+defaultContentLanguage = "zh-cn"
+hasCJKLanguage = true
 
 # summaryLength = 2
 
@@ -45,6 +46,9 @@ weight = 1
     noClasses = true
     style = "dracula"
     tabWidth = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:title"
 
 [params]
 
