@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/posts/Weekly Aug.8-Aug.14：先随便取个名字吧！.md",
+            "file": "content/posts/王静安眼中的周美成.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245,
-    "collapsed": true
+    "width": 245
   },
   "right": {
     "id": "72371fcbf1d3c5df",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/Weekly Aug.8-Aug.14：先随便取个名字吧！.md",
+                "file": "content/posts/王静安眼中的周美成.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/Weekly Aug.8-Aug.14：先随便取个名字吧！.md",
+                "file": "content/posts/王静安眼中的周美成.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/Weekly Aug.8-Aug.14：先随便取个名字吧！.md"
+                "file": "content/posts/王静安眼中的周美成.md"
               }
             }
           },
@@ -148,10 +147,10 @@
   },
   "active": "c5de600c2632a2b6",
   "lastOpenFiles": [
-    "obsidian folder/weekly drafts/2022-W32.md",
-    "content/posts/Weekly Aug.8-Aug.14：先随便取个名字吧！.md",
-    "content/posts/我也不知道要写什么.md",
     "content/posts/暮秋时节的哀歌.md",
+    "content/posts/Weekly Aug.8-Aug.14：先随便取个名字吧！.md",
+    "obsidian folder/weekly drafts/2022-W32.md",
+    "content/posts/我也不知道要写什么.md",
     "2022-08-09.md",
     "content/posts/王静安眼中的周美成.md",
     "obsidian folder/template/weekly template.md",

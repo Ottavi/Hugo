@@ -7,6 +7,7 @@ tags:
 categories:
  - 周记
 ---
+真正意义上的第一篇博客！
 ## 书影音游
 - 请欣赏：以英国演员为圆点的书影怪圈
 ### 在看 | Brideshead Revisited 1981
