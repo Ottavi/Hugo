@@ -5,16 +5,13 @@
     "2022/7/10": 32,
     "2022/7/12": 63,
     "2022/7/13": 1128,
-    "2022/7/14": 0
+    "2022/7/14": 458,
+    "2022/7/15": 6
   },
   "todaysWordCount": {
     "content/posts/Weekly Aug.8-Aug.14：先随便取个名字吧！.md": {
-      "initial": 906,
-      "current": 906
-    },
-    "content/posts/暮秋时节的哀歌.md": {
-      "initial": 3421,
-      "current": 3421
+      "initial": 1365,
+      "current": 1371
     }
   }
 }

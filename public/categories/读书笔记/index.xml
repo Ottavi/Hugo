@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>读书笔记 on 云屋出租</title>
+    <link>https://hugo-one-vert.vercel.app/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</link>
+    <description>Recent content in 读书笔记 on 云屋出租</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>云屋出租</copyright>
+    <lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-one-vert.vercel.app/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>暮秋时节的哀歌——读李长吉歌诗</title>
+      <link>https://hugo-one-vert.vercel.app/posts/%E6%9A%AE%E7%A7%8B%E6%97%B6%E8%8A%82%E7%9A%84%E5%93%80%E6%AD%8C/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo-one-vert.vercel.app/posts/%E6%9A%AE%E7%A7%8B%E6%97%B6%E8%8A%82%E7%9A%84%E5%93%80%E6%AD%8C/</guid>
+      <description>陇西长吉摧颓客，酒阑感觉中区窄。葛衣断碎赵城秋，吟诗一夜东方白。 这是李贺在《酒罢，张大彻索赠诗，时张初效潞幕》中写下的句子。此时是元和八年，</description>
+    </item>
+    
+    <item>
+      <title>王静安眼中的周美成</title>
+      <link>https://hugo-one-vert.vercel.app/posts/%E7%8E%8B%E9%9D%99%E5%AE%89%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%91%A8%E7%BE%8E%E6%88%90/</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo-one-vert.vercel.app/posts/%E7%8E%8B%E9%9D%99%E5%AE%89%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%91%A8%E7%BE%8E%E6%88%90/</guid>
+      <description>初中的时候粗粗翻过一遍《人间词话》，当时我尚年幼，于诗词诵习上亦不够广泛，看了几条便丢开了。恍惚过了五年，捡起这本书时我已在中文系，从前未曾</description>
+    </item>
+    
+  </channel>
+</rss>
