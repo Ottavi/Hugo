@@ -1,53 +1,91 @@
 baseURL = "https://hugo-one-vert.vercel.app/"
 languageCode = "zh"
 title = "云屋出租"
-theme = "ezhil"
-paginate = 5
+theme = "cactus"
+copyright = "You" # cactus will use title if copyright is not set
+disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
+# googleAnalytics = "UA-1234-5"
 
-copyright = "© Copyright notice"
 
-pygmentsstyle = "solarized-dark"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
+# summaryLength = 2
 
-googleAnalytics = "UA-123-45"
-disqusShortname = ""
-
-summaryLength = 0
-
-[params]
-	subtitle = "天空一无所有/为何给我安慰"
-	disableDisqusTypes = ["page"]
-	featherIconsCDN = true
-	mode = "light" # "dark", "auto", "light"
-	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
-	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
-	# customJS = ["https://code.jquery.com/jquery-3.4.1.js", "js/custom1.js"]  # Custom JS scripts.
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Friends"
+url = "/friends"
+weight = 4
 
 [[menu.main]]
-name = "主页"
-url = "/"
-weight = 1
-
-[[menu.main]]
-name = "文章"
+name = "Posts"
 url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = ""
-url = "/about"
-weight = 4
-
-[[menu.main]]
-name = "标签"
+name = "Tags"
 url = "/tags"
 weight = 3
 
-[[params.social]]
-name = "RSS"
-icon = "rss"
-url = "/index.xml"
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 1
 
-[taxonomies]
-   tag = "tags"
+[markup]
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = true
+    style = "dracula"
+    tabWidth = 4
+
+[params]
+
+  colortheme = "light" # dark, light, white, or classic
+  rss = true # generate rss feed. default value is false
+  googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
+  showAllPostsArchive = false # default
+
+  # Home page settings
+  description = "天空一无所有/为何给我安慰"
+  mainSection = "posts" # your main section
+  showAllPostsOnHomePage = false # default
+  postsOnHomePage = 0 # this option will be ignored if showAllPostsOnHomePage is set to true
+  tagsOverview = true # show tags overview by default.
+  showProjectsList = false # show projects list by default (if projects data file exists).
+  projectsUrl = "https://github.com/gohugoio" # title link for projects list
+
+  # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
+  dateFormat = "2006-01-02" # default
+
+  # Post page settings
+  show_updated = true # default
+  showReadTime = false # default
+
+  [params.comments]
+    enabled = true # default
+    engine = "cactus_comments" # only disqus, utterances, and cactus_comments is supported
+    [params.comments.utterances]
+      repo = "<github_username>/<github_reponame>"
+      label = "hugo-site-name" # you can use however you want to label your name in your repo's issues
+      theme = "github-light"
+    [params.comments.cactuscomments]
+      siteName = "your_cactus_comments_sitename" # see https://cactus.chat/ on how to register your site name
+      #serverUrl = "" # Defaults to https://matrix.cactus.chat:8448 (Cactus Chat public server)
+      #serverName = "" # Defaults to cactus.chat
+
+  # the value of name should be an valid font awesome icon name (brands type)
+  # https://fontawesome.com/icons?d=gallery&s=brands
+  [[params.social]]
+    name = "rss"
+    link = "https://hugo-one-vert.vercel.app/index.xml"
+  [[params.social]]
+    name = "email"
+    link = "celikoli@protonmail.com"  # no need for "mailto:" in the head

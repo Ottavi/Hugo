@@ -31,7 +31,7 @@
   "fullWidthMedia": true,
   "bordersToggle": true,
   "bordersTitle": false,
-  "minimalStatus": true,
+  "minimalStatus": false,
   "focusMode": false,
   "underlineInternal": true,
   "underlineExternal": true,

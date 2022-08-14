@@ -1,16 +1,19 @@
 {
   "dayCounts": {
     "2022/7/8": 178,
-    "2022/7/9": 76
+    "2022/7/9": 94,
+    "2022/7/10": 32,
+    "2022/7/12": 63,
+    "2022/7/13": 1128
   },
   "todaysWordCount": {
     "obsidian folder/weekly drafts/2022-W32.md": {
-      "initial": 375,
-      "current": 451
+      "initial": 566,
+      "current": 1014
     },
-    "content/posts/暮秋时节的哀歌.md": {
-      "initial": 3421,
-      "current": 3421
+    "content/posts/Weekly Aug.8-Aug.14：先随便取个名字吧！.md": {
+      "initial": 226,
+      "current": 906
     }
   }
 }
