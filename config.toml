@@ -1,4 +1,4 @@
-baseURL = "https://hugo-one-vert.vercel.app/"
+baseURL = "https://cloudforent.online"
 languageCode = "zh-cn"
 title = "云屋出租"
 theme = "cactus"

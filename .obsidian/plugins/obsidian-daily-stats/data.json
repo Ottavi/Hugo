@@ -6,20 +6,25 @@
     "2022/7/12": 63,
     "2022/7/13": 1128,
     "2022/7/14": 458,
-    "2022/7/15": 17
+    "2022/7/15": 17,
+    "2022/7/17": 443
   },
   "todaysWordCount": {
-    "content/posts/Weekly Aug.8-Aug.14：先随便取个名字吧！.md": {
-      "initial": 1365,
-      "current": 1382
+    "obsidian folder/weekly drafts/2022-W33.md": {
+      "initial": 45,
+      "current": 471
     },
-    "content/posts/暮秋时节的哀歌.md": {
-      "initial": 3421,
-      "current": 3421
+    "obsidian folder/template/weekly template.md": {
+      "initial": 44,
+      "current": 53
     },
-    "content/posts/王静安眼中的周美成.md": {
-      "initial": 2174,
-      "current": 2174
+    "content/posts/未命名.md": {
+      "initial": 58,
+      "current": 47
+    },
+    "content/posts/Weekly Aug.15-Aug.21：紧紧抓住假期的尾巴.md": {
+      "initial": 47,
+      "current": 55
     }
   }
 }

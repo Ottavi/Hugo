@@ -1,5 +1,5 @@
 ---
-title: "Weekly|"
+title: "Weekly|Aug.15-Aug.21：紧紧抓住假期的尾巴"
 date: 2022-07-19T18:49:21+08:00
 draft: true
 tags: 
@@ -7,23 +7,6 @@ tags:
 categories:
  - 周记
 ---
-# DRAFT
-## Daily Journal
-### Monday
-- 
-### Tuesday
-- 
-### Wednesday
-- 
-### Thursday
-- 
-### Friday
-- 
-### Saturday
-- 
-### Sunday
-- 
-# POST
 ## 书影音游
 - 
 ## Happy Hour
