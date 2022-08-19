@@ -7,24 +7,26 @@
     "2022/7/13": 1128,
     "2022/7/14": 458,
     "2022/7/15": 17,
-    "2022/7/17": 443
+    "2022/7/17": 443,
+    "2022/7/18": 0,
+    "2022/7/19": 19
   },
   "todaysWordCount": {
-    "obsidian folder/weekly drafts/2022-W33.md": {
-      "initial": 45,
-      "current": 471
-    },
-    "obsidian folder/template/weekly template.md": {
-      "initial": 44,
-      "current": 53
-    },
-    "content/posts/未命名.md": {
-      "initial": 58,
-      "current": 47
+    "content/posts/Weekly Aug.8-Aug.14：先随便取个名字吧！.md": {
+      "initial": 1379,
+      "current": 1388
     },
     "content/posts/Weekly Aug.15-Aug.21：紧紧抓住假期的尾巴.md": {
-      "initial": 47,
-      "current": 55
+      "initial": 51,
+      "current": 57
+    },
+    "content/posts/周记录 8.8-8.14：先随便取个名字吧！.md": {
+      "initial": 1388,
+      "current": 1390
+    },
+    "content/posts/周记录 8.15-8.21紧紧抓住假期的尾巴.md": {
+      "initial": 55,
+      "current": 57
     }
   }
 }
