@@ -66,12 +66,13 @@ categories:
 
 整部片子有一种蔓延在空气里的情色意味，和原著的氛围相当契合，不过也可能只是因为我戴着有色眼镜才感觉铁叔的一举一动都十分色情（…）洛的演员Swain当时只十六岁（另外惊叹一下那时铁叔都五十了！），像是天生的性感少女、命中注定的洛丽塔，一举一动都天真自然诱惑，舍友辣评：换我我也心动！
 ## 音
+### Lana Del Rey
 不得不放两首极具洛丽塔风味的Lana Del Rey：
 - [Off To The Races](https://open.spotify.com/track/3vV6IX7lbyQFmOyAuQpdav)：像洛眼中的奎尔蒂，她“唯一爱过的人”。
 - [Lolita](https://open.spotify.com/track/3Kgoe07QIqVCAb6aypPJU5)：像亨伯特眼中（或者幻想中）的洛丽塔，在公园里和他接吻，别人怎么想随他们去吧！
-
+### Blur
 不知道为什么我对[Tender](https://open.spotify.com/track/42cxPm9jgbaxIVN77XA1m6)的爱又重燃了，记得之前看到网上有人说Blur是傻乐乐队，我觉得这首歌确实很傻乐很可爱。另外，Blur的歌词终于在Spotify上线了！终于！
-
+### Patti Smith
 还有很喜欢的Patti Smith，放两首最近总在听的：
 - [Dancing Barefoot](https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf) 
 - [Frederick](https://open.spotify.com/track/1AWSemPzuGu4A9lVhSsFWJ) 
