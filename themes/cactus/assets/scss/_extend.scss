@@ -54,11 +54,13 @@ hr {
   margin-bottom: 20px;
 }
 strong {
-  font-weight: bold;
+  font-weight: 700;
+  color: $color-strong
 }
 em
 cite {
-  font-style: italic;
+  font-style: normal;
+  color: $color-quote
 }
 sup
 sub {

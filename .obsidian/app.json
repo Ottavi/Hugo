@@ -4,5 +4,6 @@
   "newFileFolderPath": "obsidian folder/weekly drafts",
   "useMarkdownLinks": true,
   "attachmentFolderPath": "/",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true
 }
