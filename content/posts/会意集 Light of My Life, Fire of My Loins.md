@@ -1,5 +1,5 @@
 ---
-title: "Light of My Life, Fire of My Loins：洛丽塔及其它"
+title: "会意集|Light of My Life, Fire of My Loins：洛丽塔及其它"
 date: 2022-08-23T18:49:21+08:00
 draft: false
 tags: 
@@ -7,7 +7,7 @@ tags:
  - 影
  - 音
 categories:
- - 宇宙漫游
+ - 人类的想象力最终去往何方
 ---
 ## 书
 ### 读过 | 昨日的世界

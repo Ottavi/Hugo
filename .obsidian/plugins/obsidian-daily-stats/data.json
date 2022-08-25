@@ -11,12 +11,13 @@
     "2022/7/18": 0,
     "2022/7/19": 19,
     "2022/7/21": 2,
-    "2022/7/23": 0
+    "2022/7/23": 0,
+    "2022/7/25": 3
   },
   "todaysWordCount": {
     "content/posts/Light of My Life, Fire of My Loins.md": {
-      "initial": 3626,
-      "current": 3584
+      "initial": 3592,
+      "current": 3595
     }
   }
 }
