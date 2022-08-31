@@ -12,12 +12,16 @@
     "2022/7/19": 19,
     "2022/7/21": 2,
     "2022/7/23": 0,
-    "2022/7/25": 3
+    "2022/7/25": 4
   },
   "todaysWordCount": {
     "content/posts/Light of My Life, Fire of My Loins.md": {
       "initial": 3592,
       "current": 3595
+    },
+    "content/posts/周记录 8.8-8.14：先随便取个名字吧！.md": {
+      "initial": 1388,
+      "current": 1389
     }
   }
 }
