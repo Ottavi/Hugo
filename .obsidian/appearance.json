@@ -3,5 +3,6 @@
   "theme": "moonstone",
   "enabledCssSnippets": [
     "文本两端对齐"
-  ]
+  ],
+  "accentColor": ""
 }

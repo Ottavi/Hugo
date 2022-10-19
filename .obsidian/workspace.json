@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "c1a37eb37e10a6c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0acc641bca9428c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bc11dc05c7b273e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/会意集 一口吃两颗葡萄.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7fa7a4f5d71c883e",
+    "type": "split",
+    "children": [
+      {
+        "id": "878d9d1aa9dff24f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e9d72e7da7c5ae5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a0147743f45fb820",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80b529d6113c09ce",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245
+  },
+  "right": {
+    "id": "72371fcbf1d3c5df",
+    "type": "split",
+    "children": [
+      {
+        "id": "3080b28fd5b5533e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d959c6ef9bfc0daa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/posts/会意集 一口吃两颗葡萄.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a8e16a0a47f4a266",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/posts/会意集 一口吃两颗葡萄.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d63c691edb09c34c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5ef072a4a50acb57",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/posts/会意集 一口吃两颗葡萄.md"
+              }
+            }
+          },
+          {
+            "id": "362628fda2053d52",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "681c8f1880f2a416",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "3bc11dc05c7b273e",
+  "lastOpenFiles": [
+    "content/posts/会意集 该爱的不该爱的还是都爱了.md",
+    "content/posts/会意集 Light of My Life, Fire of My Loins.md",
+    "content/posts/会意集 一口吃两颗葡萄.md",
+    "content/posts/周记录 8.15-8.21可是生活还要继续.md",
+    "content/posts/周记录 8.8-8.14：先随便取个名字吧！.md",
+    "content/posts/我也不知道要写什么.md",
+    "content/posts/王静安眼中的周美成.md",
+    "content/posts/暮秋时节的哀歌.md",
+    "content/posts/陈端生与《再生缘》.md",
+    "content/posts/《性学观止》与我的身体.md"
+  ]
+}
