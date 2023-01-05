@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/会意集 一口吃两颗葡萄.md",
+                "file": "content/posts/2022年度文化生活总结.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/会意集 一口吃两颗葡萄.md",
+                "file": "content/posts/2022年度文化生活总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/会意集 一口吃两颗葡萄.md",
+                "file": "content/posts/2022年度文化生活总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/会意集 一口吃两颗葡萄.md"
+                "file": "content/posts/2022年度文化生活总结.md"
               }
             }
           },
@@ -153,20 +153,27 @@
     "width": 261.5,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open this week": false
+    }
   },
   "active": "3bc11dc05c7b273e",
   "lastOpenFiles": [
-    "content/posts/会意集 该爱的不该爱的还是都爱了.md",
-    "content/posts/会意集 Light of My Life, Fire of My Loins.md",
-    "content/posts/会意集 一口吃两颗葡萄.md",
-    "content/posts/周记录 8.15-8.21可是生活还要继续.md",
     "content/posts/周记录 8.8-8.14：先随便取个名字吧！.md",
+    "content/posts/2022年度文化生活总结.md",
+    "obsidian folder/template/weekly template.md",
+    "content/posts/会意集 该爱的不该爱的还是都爱了.md",
+    "content/posts/会意集 一口吃两颗葡萄.md",
+    "content/posts/会意集 Light of My Life, Fire of My Loins.md",
+    "content/posts/周记录 8.15-8.21可是生活还要继续.md",
     "content/posts/我也不知道要写什么.md",
     "content/posts/王静安眼中的周美成.md",
-    "content/posts/暮秋时节的哀歌.md",
-    "content/posts/陈端生与《再生缘》.md",
-    "content/posts/《性学观止》与我的身体.md"
+    "content/posts/暮秋时节的哀歌.md"
   ]
 }
