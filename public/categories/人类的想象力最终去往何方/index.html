@@ -5,8 +5,8 @@
   <link rel="preload" href="/lib/font-awesome/webfonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin="anonymous">
   <link rel="preload" href="/lib/font-awesome/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin="anonymous">
   <link rel="preload" href="/lib/JetBrainsMono/web/woff2/JetBrainsMono-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
-  <script type="text/javascript" src="https://latest.cactus.chat/cactus.js"></script>
-  <link rel="stylesheet" href="https://latest.cactus.chat/style.css" type="text/css">
+  <script type="text/javascript" src="/js/cactus.js"></script>
+  <link rel="stylesheet" href="/css/style.css" type="text/css">
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>云屋出租</title>
@@ -30,7 +30,7 @@
     
   
   
-  <link rel="stylesheet" href="https://cloudforent.online/css/styles.42150563a017c27f8fe4f55229ebcc1e83ef1259a8d596009ee9ea0d2e4774fc455f4a2ed0f234b32116f358fe45a238dd70c2db8ac03095a93760b10893772f.css" integrity="sha512-QhUFY6AXwn&#43;P5PVSKevMHoPvElmo1ZYAnunqDS5HdPxFX0ou0PI0syEW81j&#43;RaI43XDC24rAMJWpN2CxCJN3Lw=="> 
+  <link rel="stylesheet" href="https://cloudforent.online/css/styles.a7b37f76ac13356a5b5f02aaa23960f972b2a46febd9d7b5fac3122ca5f20503960c9fbfe912c68b5624ac0c6c367c3b8555fa6d8a37234e77255445cd036c73.css" integrity="sha512-p7N/dqwTNWpbXwKqojlg&#43;XKypG/r2de1&#43;sMSLKXyBQOWDJ&#43;/6RLGi1YkrAxsNnw7hVX6bYo3I053JVRFzQNscw=="> 
 
   
   
@@ -42,7 +42,7 @@
   
 
   
-<link rel="icon" type="image/png" href="https://cloudforent.online/images/favicon.ico" />
+<link rel="icon" type="image/png" href="https://cloudforent.online/images/logo.png" />
 
   
   
@@ -50,7 +50,28 @@
   
   
   
+
 </head>
+
+
+  <style>
+    :root {
+        --article-font-family: "Noto Serif SC", var(--base-font-family);
+        
+    }
+</style>
+
+<script> 
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300;700&display=swap"; 
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+    
+        document.head.appendChild(customFont);
+    }());
+</script>
+
 
 <body class="max-width mx-auto px3 ltr">
   <div class="content index py4">
@@ -70,18 +91,20 @@
         <a href="#" aria-label="Menu"><i class="fas fa-bars fa-2x" aria-hidden="true"></i></a>
       </li>
       
-        <li><a href="/about">About</a></li>
+        <li><a href="/">Home</a></li>
       
         <li><a href="/posts">Posts</a></li>
       
-        <li><a href="/tags">Tags</a></li>
+        <li><a href="/about">About</a></li>
       
-        <li><a href="/categories">Categories</a></li>
+        <li><a href="/tags">Tags</a></li>
       
         <li><a href="/friends">Friends</a></li>
       
     </ul>
   </div>
+
+  
 </header>
 
 
@@ -143,9 +166,53 @@
   <div class="footer-left">
    
   </div>
-  <div class="footer-right">
-    Copyright  &copy; 2022-2023 云屋出租
-  </div>
+
+  
+  
+      
+  
+      
+  
+      
+  
+      
+  
+      
+  
+      
+  
+      
+  
+      
+  
+
+  <section class="copyright">
+    &copy; 
+       
+       2021-2022 站点名称</a> · <a id="days">0</a>Days<br>
+     共书写了21k字 ·  6 篇文章</br><span><p>
+   </section>
+
+   <script>
+    var s1 = '2021-08-24';
+    s1 = new Date(s1.replace(/-/g, "/"));
+    s2 = new Date();
+    var days = s2.getTime() - s1.getTime();
+    var number_of_days = parseInt(days / (1000 * 60 * 60 * 24));
+    document.getElementById('days').innerHTML = number_of_days;
+    </script>
+    
+    <script>
+(function(u, c) {
+  var d = document, t = 'script', o = d.createElement(t),
+      s = d.getElementsByTagName(t)[0];
+  o.src = u;
+  if (c) { o.addEventListener('load', function(e) { c(e); }); }
+  s.parentNode.insertBefore(o, s);
+})('//cdn.bootcss.com/pangu/3.3.0/pangu.min.js', function() {
+  pangu.spacingPage();
+});
+</script>
 </footer>
 
 
