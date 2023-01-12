@@ -1,10 +1,7 @@
 <div id="header-post">
-  <!--修不好菜单栏故障，把这两行注释了，让菜单栏可以一直显示-->
-  <!--<a id="menu-icon" href="#"><i class="fas fa-bars fa-lg"></i></a>-->
-  <a id="menu-icon-tablet" href="#"><i class="fas fa-bars fa-lg"></i></a>
-  <!--<a id="top-icon-tablet" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');" style="display:none;" aria-label="Top of Page"><i class="fas fa-chevron-up fa-lg"></i></a>
-  <span id="menu">-->
-    <span id="nav">
+ <!--<a id="menu-icon" href="#"><i class="fas fa-bars fa-lg"></i></a>
+  <a id="menu-icon-tablet" href="#"><i class="fas fa-bars fa-lg"></i></a>!-->
+   <span id="nav">
       <ul>
         {{ range .Site.Menus.main }} 
         <li><a href="{{ .URL }}">{{ .Name }}</a></li>
@@ -12,7 +9,7 @@
       </ul>
     </span>
     <br/>
-    <span id="actions">
+    <!--<span id="actions">
       <ul>
         {{ if .Prev }}
         <li>
@@ -54,5 +51,5 @@
       {{ .TableOfContents }}
     </div>
     {{ end }}
-  </span>
+  </span>!-->
 </div>

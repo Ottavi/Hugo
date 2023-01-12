@@ -17,7 +17,7 @@ h2,
   position: relative;
   display: block;
   margin-top: 1rem;
-  margin-bottom: .3rem;
+  margin-bottom: 0.5rem;
   color: $color-accent-2;
   text-transform: none;
   letter-spacing: normal;
@@ -25,9 +25,10 @@ h2,
   font-size: 1.1rem;
 }
 h3 {
-  color: $color-accent-2;
-  text-decoration: underline;
-  font-weight: bold;
+  margin-top: 0.5rem;
+  margin-bottom: 0rem;
+  color: $color-accent-1;
+  font-weight: 0.5rem;
   font-size: 1rem;
 }
 h4
@@ -55,7 +56,7 @@ hr {
 }
 ::selection {
   color: #fff;
-  background: #000000d1;
+  background: #29603b9c;
 }
 
 strong {
@@ -97,6 +98,8 @@ ul ol,
 ol ol {
   margin-top: 0;
   margin-bottom: 0;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
 }
 ol {
   list-style: decimal;
@@ -129,17 +132,17 @@ td {
   }
   
 @media screen and (max-width: 900px) {
-  body{zoom:1}
+  body{zoom:1.2}
     }
 
 @media screen and (max-width: 1700px) {
 #header-post {
-  display: none !important;
+  display: block !important;
   position: fixed;
   top: 2rem;
   right: 0;
   display: inline-block;
   float: right;
-  z-index: 100;
+  z-index: 50;
 }
 }
