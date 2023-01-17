@@ -10,6 +10,7 @@ date: 2022-08-14 10:59
 - [倦鸟西飞](https://nisedenkibran.club)
 - [光明岛](https://mokuyo.uk)
 - [昼河万里](https://tothemoonriver.icu)
+- [The Wandering Allison](https://thewanderingallison.github.io)
 
 鸣谢：
 - [小球飞鱼](https://mantyke.icu)
