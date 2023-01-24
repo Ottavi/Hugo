@@ -15,12 +15,37 @@
     "2022/7/25": 4,
     "2022/7/31": 0,
     "2022/8/5": 0,
-    "2023/0/6": 0
+    "2023/0/6": 0,
+    "2023/0/24": 78
   },
   "todaysWordCount": {
+    "content/posts/剪贴簿 Vol.1：公民有无义务服从国家？.md": {
+      "initial": 3136,
+      "current": 3213
+    },
+    "content/posts/会意集 Light of My Life, Fire of My Loins.md": {
+      "initial": 3582,
+      "current": 3582
+    },
+    "content/posts/会意集 一口吃两颗葡萄.md": {
+      "initial": 3523,
+      "current": 3523
+    },
+    "content/posts/会意集 该爱的不该爱的还是都爱了.md": {
+      "initial": 4332,
+      "current": 4332
+    },
     "content/posts/2022年度文化生活总结.md": {
-      "initial": 4628,
-      "current": 3874
+      "initial": 3869,
+      "current": 3870
+    },
+    "content/posts/周记录 8.8-8.14：先随便取个名字吧！.md": {
+      "initial": 1387,
+      "current": 1383
+    },
+    "content/posts/周记录 8.15-8.21可是生活还要继续.md": {
+      "initial": 810,
+      "current": 810
     }
   }
 }

@@ -1,8 +1,9 @@
 {
   "cssTheme": "Minimal",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "enabledCssSnippets": [
     "文本两端对齐"
   ],
-  "accentColor": ""
+  "accentColor": "#a38cd9",
+  "showViewHeader": true
 }
