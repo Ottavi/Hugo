@@ -18,16 +18,20 @@
     "2023/0/6": 0,
     "2023/0/24": 564,
     "2023/0/27": 28,
-    "2023/0/29": 24
+    "2023/0/29": 32
   },
   "todaysWordCount": {
     "content/posts/月记录 一月：20小时的心灵项目.md": {
       "initial": 1792,
-      "current": 1814
+      "current": 1816
     },
     "obsidian folder/template/font-matter template.md": {
       "initial": 9,
       "current": 11
+    },
+    "content/posts/剪贴簿 Vol.1：公民有无义务服从国家？.md": {
+      "initial": 3213,
+      "current": 3219
     }
   }
 }
