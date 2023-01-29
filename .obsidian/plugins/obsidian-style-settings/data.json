@@ -4,5 +4,7 @@
   "minimal-style@@h2-color@@light": "#76939E",
   "minimal-style@@h2-color@@dark": "#85A6B3",
   "minimal-style@@h3-color@@light": "#8AADA3",
-  "minimal-style@@h3-color@@dark": "#98BDB3"
+  "minimal-style@@h3-color@@dark": "#98BDB3",
+  "minimal-advanced@@window-title-on": false,
+  "minimal-advanced@@styled-scrollbars": false
 }

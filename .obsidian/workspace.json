@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0acc641bca9428c9",
+        "id": "05452672aaacf17f",
         "type": "tabs",
         "children": [
           {
-            "id": "3bc11dc05c7b273e",
+            "id": "7dd2dccd52c8ab27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/会意集 我也要用空洞的声音喊出：.md",
+                "file": "content/posts/月记录 一月：20小时的心灵项目.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245
+    "width": 334
   },
   "right": {
     "id": "72371fcbf1d3c5df",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/会意集 我也要用空洞的声音喊出：.md",
+                "file": "content/posts/月记录 一月：20小时的心灵项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/会意集 我也要用空洞的声音喊出：.md",
+                "file": "content/posts/月记录 一月：20小时的心灵项目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/会意集 我也要用空洞的声音喊出：.md"
+                "file": "content/posts/月记录 一月：20小时的心灵项目.md"
               }
             }
           },
@@ -155,25 +155,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
       "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "periodic-notes:Open this week": false
     }
   },
-  "active": "3bc11dc05c7b273e",
+  "active": "7dd2dccd52c8ab27",
   "lastOpenFiles": [
-    "content/posts/会意集 该爱的不该爱的还是都爱了.md",
-    "content/posts/周记录 8.15-8.21可是生活还要继续.md",
-    "content/posts/周记录 8.8-8.14：先随便取个名字吧！.md",
+    "obsidian folder/template/font-matter template.md",
+    "content/posts/月记录 一月：20小时的心灵项目.md",
     "content/posts/剪贴簿 Vol.1：公民有无义务服从国家？.md",
-    "content/posts/会意集 Light of My Life, Fire of My Loins.md",
     "content/posts/会意集 一口吃两颗葡萄.md",
-    "content/posts/2022年度文化生活总结.md",
     "content/posts/会意集 我也要用空洞的声音喊出：.md",
-    "obsidian folder/template/weekly template.md",
-    "content/posts/我也不知道要写什么.md"
+    "content/posts/会意集 该爱的不该爱的还是都爱了.md",
+    "content/posts/会意集 Light of My Life, Fire of My Loins.md",
+    "obsidian folder/weekly drafts/Untitled.md",
+    "content/posts/周记录 8.15-8.21可是生活还要继续.md",
+    "content/posts/周记录 8.8-8.14：先随便取个名字吧！.md"
   ]
 }

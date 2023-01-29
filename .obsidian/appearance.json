@@ -5,5 +5,6 @@
     "文本两端对齐"
   ],
   "accentColor": "#a38cd9",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "nativeMenus": false
 }

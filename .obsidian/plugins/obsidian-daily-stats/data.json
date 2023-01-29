@@ -17,28 +17,17 @@
     "2022/8/5": 0,
     "2023/0/6": 0,
     "2023/0/24": 564,
-    "2023/0/27": 28
+    "2023/0/27": 28,
+    "2023/0/29": 24
   },
   "todaysWordCount": {
-    "content/posts/会意集 我也要用空洞的声音喊出：.md": {
-      "initial": 2931,
-      "current": 2950
+    "content/posts/月记录 一月：20小时的心灵项目.md": {
+      "initial": 1792,
+      "current": 1814
     },
-    "content/posts/会意集 该爱的不该爱的还是都爱了.md": {
-      "initial": 4332,
-      "current": 4335
-    },
-    "content/posts/2022年度文化生活总结.md": {
-      "initial": 3870,
-      "current": 3870
-    },
-    "content/posts/会意集 一口吃两颗葡萄.md": {
-      "initial": 4009,
-      "current": 4012
-    },
-    "content/posts/会意集 Light of My Life, Fire of My Loins.md": {
-      "initial": 3582,
-      "current": 3585
+    "obsidian folder/template/font-matter template.md": {
+      "initial": 9,
+      "current": 11
     }
   }
 }
