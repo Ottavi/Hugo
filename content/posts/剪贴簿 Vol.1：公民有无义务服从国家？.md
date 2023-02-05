@@ -3,10 +3,11 @@ title: "剪贴簿 | Vol.1：公民有无义务服从国家？"
 date: 2023-01-24T15:49:21+08:00
 draft: false
 tags: 
-- 剪贴簿
 - 性别
 - 政治
 - 哲学
+categories: 
+- 剪贴簿
 ---
 新栏目，记录一下看过的文章。想法是很早以前就有的，拖到现在终于产出第一期。原本想过做newsletter，但又觉得没有必要（而且也不能保证更新频率），干脆直接丢进博客里。
 ## 1. What’s the Difference Between Agender and Nonbinary Identities? - Psych Central
