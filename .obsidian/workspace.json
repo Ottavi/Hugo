@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/会意集 Such a Heavenly Way to Die.md",
+                "file": "content/posts/会意集 一口吃两颗葡萄.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8308891432b2b87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/test.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/会意集 Such a Heavenly Way to Die.md",
+                "file": "content/posts/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/会意集 Such a Heavenly Way to Die.md",
+                "file": "content/posts/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/会意集 Such a Heavenly Way to Die.md"
+                "file": "content/posts/test.md"
               }
             }
           },
@@ -163,19 +176,20 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "7dd2dccd52c8ab27",
+  "active": "c8308891432b2b87",
   "lastOpenFiles": [
-    "content/posts/剪贴簿 Vol.1：公民有无义务服从国家？.md",
-    "content/posts/会意集 Such a Heavenly Way to Die.md",
-    "content/posts/月记录 二月：从白天驶入黑夜，aka开学了.md",
-    "content/posts/会意集 Light of My Life, Fire of My Loins.md",
     "content/posts/会意集 一口吃两颗葡萄.md",
+    "content/posts/test.md",
+    "content/posts/会意集 Light of My Life, Fire of My Loins.md",
+    "content/posts/会意集 Such a Heavenly Way to Die.md",
+    "content/posts/剪贴簿 Vol.1：公民有无义务服从国家？.md",
+    "content/posts/月记录 二月：从白天驶入黑夜，aka开学了.md",
+    "content/posts/月记录 一月：20小时的心灵项目.md",
+    "content/posts/周记录 8.8-8.14：先随便取个名字吧！.md",
+    "content/posts/周记录 8.15-8.21可是生活还要继续.md",
+    "content/posts/云游记 南京：像是去不太熟但很喜欢的朋友家玩了一圈.md",
     "content/posts/会意集 我也要用空洞的声音喊出：.md",
     "content/posts/会意集 该爱的不该爱的还是都爱了.md",
-    "content/posts/2022年度文化生活总结.md",
-    "content/posts/月记录 一月：20小时的心灵项目.md",
-    "content/posts/云游记 南京：像是去不太熟但很喜欢的朋友家玩了一圈.md",
-    "content/posts/周记录 8.15-8.21可是生活还要继续.md",
-    "content/posts/周记录 8.8-8.14：先随便取个名字吧！.md"
+    "content/posts/2022年度文化生活总结.md"
   ]
 }
