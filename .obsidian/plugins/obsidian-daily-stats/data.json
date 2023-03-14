@@ -20,20 +20,13 @@
     "2023/0/27": 28,
     "2023/0/29": 32,
     "2023/1/5": 44,
-    "2023/2/9": 46
+    "2023/2/9": 46,
+    "2023/2/14": 27
   },
   "todaysWordCount": {
-    "content/posts/月记录 二月：从白天驶入黑夜，aka开学了.md": {
-      "initial": 1762,
-      "current": 1785
-    },
-    "content/posts/会意集 Such a Heavenly Way to Die.md": {
-      "initial": 1845,
-      "current": 1867
-    },
-    "content/posts/test.md": {
-      "initial": 14,
-      "current": 15
+    "content/posts/剪贴簿 Vol.2：但是世界不只一种颜色.md": {
+      "initial": 2111,
+      "current": 2138
     }
   }
 }
