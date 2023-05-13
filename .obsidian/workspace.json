@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/月记录 四月：终曲.md",
+                "file": "content/posts/会意集 我们要如何面对离散.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "0a5ee86e8fec070c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/月记录 四月：终曲.md",
+                "file": "content/posts/会意集 我们要如何面对离散.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/月记录 四月：终曲.md",
+                "file": "content/posts/会意集 我们要如何面对离散.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/月记录 四月：终曲.md"
+                "file": "content/posts/会意集 我们要如何面对离散.md"
               }
             }
           },
@@ -165,15 +173,16 @@
   },
   "active": "7dd2dccd52c8ab27",
   "lastOpenFiles": [
-    "content/posts/月记录 三月：在春山环抱中想象春天.md",
-    "content/posts/月记录 四月：终曲.md",
-    "content/posts/月记录 二月：从白天驶入黑夜，aka开学了.md",
     "content/posts/会意集 一切科幻最终回到人.md",
     "content/posts/会意集 爱情作为一种宗教信仰.md",
-    "content/posts/会意集 我也要用空洞的声音喊出：.md",
     "content/posts/会意集 实在想不出标题.md",
-    "content/posts/会意集 该爱的不该爱的还是都爱了.md",
+    "content/posts/会意集 我也要用空洞的声音喊出：.md",
+    "content/posts/会意集 我们要如何面对离散.md",
     "content/posts/会意集 一口吃两颗葡萄.md",
+    "content/posts/月记录 四月：终曲.md",
+    "content/posts/月记录 三月：在春山环抱中想象春天.md",
+    "content/posts/月记录 二月：从白天驶入黑夜，aka开学了.md",
+    "content/posts/会意集 该爱的不该爱的还是都爱了.md",
     "content/posts/月记录 一月：20小时的心灵项目.md",
     "content/posts/剪贴簿 Vol.3：【专题】ChatGPT的有用与无用.md",
     "content/posts/剪贴簿 Vol.2：但是世界不只一种颜色.md",
