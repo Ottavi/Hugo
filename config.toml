@@ -1,8 +1,8 @@
-baseURL = "https://cloudforent.online"
+baseURL = "https://supernovaradio.live"
 languageCode = "zh-cn"
-title = "云屋出租"
+title = "超新星电台"
 theme = "cactus"
-copyright = "云屋出租" # cactus will use title if copyright is not set
+copyright = "超新星电台" # cactus will use title if copyright is not set
 # disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
 # googleAnalytics = "UA-1234-5"
 hasCJKLanguage = true
