@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/月记录 七月：我免费啦！.md",
+                "file": "content/posts/会意集 不是什么好兆头.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/月记录 七月：我免费啦！.md",
+                "file": "content/posts/会意集 不是什么好兆头.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/月记录 七月：我免费啦！.md",
+                "file": "content/posts/会意集 不是什么好兆头.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/月记录 七月：我免费啦！.md"
+                "file": "content/posts/会意集 不是什么好兆头.md"
               }
             }
           },
@@ -173,8 +173,12 @@
   },
   "active": "7dd2dccd52c8ab27",
   "lastOpenFiles": [
-    "content/posts/月记录 六月：一只海产不需要思考太多.md",
+    "content/posts/会意集 爱情作为一种宗教信仰.md",
+    "content/posts/会意集 不是什么好兆头.md",
+    "content/posts/会意集 该爱的不该爱的还是都爱了.md",
+    "content/posts/2022年度文化生活总结.md",
     "content/posts/月记录 七月：我免费啦！.md",
+    "content/posts/月记录 六月：一只海产不需要思考太多.md",
     "content/posts/月记录 三月：在春山环抱中想象春天.md",
     "content/posts/月记录 五月：玩就完了.md",
     "content/posts/月记录 四月：终曲.md",
@@ -183,11 +187,9 @@
     "content/posts/会意集 实在想不出标题.md",
     "content/posts/会意集 我们要如何面对离散.md",
     "content/posts/会意集 一切科幻最终回到人.md",
-    "content/posts/会意集 爱情作为一种宗教信仰.md",
     "content/posts/会意集 我也要用空洞的声音喊出：.md",
     "content/posts/会意集 一口吃两颗葡萄.md",
     "content/posts/月记录 二月：从白天驶入黑夜，aka开学了.md",
-    "content/posts/会意集 该爱的不该爱的还是都爱了.md",
     "content/posts/剪贴簿 Vol.3：【专题】ChatGPT的有用与无用.md",
     "content/posts/剪贴簿 Vol.2：但是世界不只一种颜色.md",
     "content/posts/云游记 重庆：去河床上踏青.md",
@@ -196,8 +198,6 @@
     "content/posts/test.md",
     "content/posts/会意集 Light of My Life, Fire of My Loins.md",
     "content/posts/会意集 Such a Heavenly Way to Die.md",
-    "content/posts/周记录 8.8-8.14：先随便取个名字吧！.md",
-    "content/posts/周记录 8.15-8.21可是生活还要继续.md",
-    "content/posts/2022年度文化生活总结.md"
+    "content/posts/周记录 8.8-8.14：先随便取个名字吧！.md"
   ]
 }
