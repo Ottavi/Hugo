@@ -13,7 +13,7 @@
        {{ if and (.Site.Params.footer.since) (ne .Site.Params.footer.since (int (now.Format "2006"))) }}
            {{ .Site.Params.footer.since }} - 
        {{ end }}
-       2022-2023 超新星电台</a> · <a id="days">0</a>Days<br>
+       2022-2024 超新星电台</a> · <a id="days">0</a>Days<br>
      {{$var :=  $scratch.Get "total"}}{{$var = div $var 100.0}}{{$var = math.Ceil $var}}{{$var = div $var 10.0}}共{{$var}}k字 ·  {{ len (where .Site.RegularPages "Section" "!=" "") }} 篇文章</br><span><p>
    </section>
 
