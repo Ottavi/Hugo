@@ -114,17 +114,18 @@ table {
   font-size: $font-size - 2px;
   overflow: auto;
   display: block;
+  border: 1px solid $color-border;
 }
 th {
   padding: 8px;
-  border-bottom: 1px dashed $color-border;
+  border-bottom: 1px solid $color-border;
   color: $color-accent-2;
   font-weight: bold;
   font-size: $font-size - 1px;
 }
 td {
   padding: 0 8px;
-  border-bottom: none;
+  border-bottom: 1px solid $color-border;
 }
 
 @media screen and (min-width: 900px) {
