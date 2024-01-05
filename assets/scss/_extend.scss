@@ -119,6 +119,8 @@ table {
 th {
   padding: 8px;
   border-bottom: 1px solid $color-border;
+  border-left: 1px solid $color-border; 
+  border-right: 1px solid $color-border;
   color: $color-accent-2;
   font-weight: bold;
   font-size: $font-size - 1px;
@@ -126,9 +128,8 @@ th {
 td {
   padding: 0 8px;
   border-bottom: 1px solid $color-border;
-}
-tr {
-  border-bottom: 1px solid $color-border; 
+  border-left: 1px solid $color-border; 
+  border-right: 1px solid $color-border; 
 }
 
 @media screen and (min-width: 900px) {
