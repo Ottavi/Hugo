@@ -114,14 +114,13 @@ table {
   font-size: $font-size - 2px;
   overflow: auto;
   display: block;
-  border: 1px solid $color-border;
-  border-collapse: collapse;
 }
 th {
   padding: 8px;
   border-bottom: 1px solid $color-border;
   border-left: 1px solid $color-border; 
   border-right: 1px solid $color-border;
+  border-top: 1px solid $color-border;
   color: $color-accent-2;
   font-weight: bold;
   font-size: $font-size - 1px;
