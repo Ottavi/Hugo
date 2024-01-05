@@ -127,6 +127,9 @@ td {
   padding: 0 8px;
   border-bottom: 1px solid $color-border;
 }
+tr {
+  border-bottom: 1px solid $color-border; 
+}
 
 @media screen and (min-width: 900px) {
   body{zoom:1.1}
