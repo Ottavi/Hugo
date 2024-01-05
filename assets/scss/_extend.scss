@@ -115,6 +115,7 @@ table {
   overflow: auto;
   display: block;
   border: 1px solid $color-border;
+  border-collapse: collapse;
 }
 th {
   padding: 8px;
