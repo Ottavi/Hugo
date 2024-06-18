@@ -41,12 +41,20 @@
     "2024/0/5": 26,
     "2024/0/6": 0,
     "2024/0/10": 5,
-    "2024/5/18": 37
+    "2024/5/18": 45
   },
   "todaysWordCount": {
     "content/posts/合订本 时间的绳让我们成为旅行者.md": {
       "initial": 2491,
       "current": 2528
+    },
+    "content/posts/2022年度文化生活总结.md": {
+      "initial": 3871,
+      "current": 3875
+    },
+    "content/posts/年度总结 2023：远游.md": {
+      "initial": 4000,
+      "current": 4004
     }
   }
 }
