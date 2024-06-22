@@ -11,7 +11,7 @@ date: 2022-08-14 10:59
 - [光明岛](https://mokuyo.xyz)
 - [昼河万里](https://tothemoonriver.icu)
 - [The Wandering Allison](https://thewanderingallison.github.io)
-- [次世嘉平](https://potatoplus.icu)
+- [次世嘉平](https://jiapingplus.icu)
 - [谢谢所有的鱼](https://gregueria.icu)
 
 鸣谢：
