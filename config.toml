@@ -65,7 +65,10 @@ weight = 5
   showAllPostsArchive = false # default
 
   # Home page settings
-  description = "天空一无所有/为何给我安慰"
+  description = "玛琳娜，国境线的舞会<br>
+停止，大雪落向我们各自孤单的命运。<br>
+我歌唱了这寒冷的春天，我歌唱了我们的废墟<br>
+……然后我又将沉默不语。<br>"
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 0 # this option will be ignored if showAllPostsOnHomePage is set to true
