@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/合订本 时间的绳让我们成为旅行者.md",
+                "file": "content/posts/年度总结 2023：远游.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/合订本 时间的绳让我们成为旅行者.md",
+                "file": "content/posts/年度总结 2023：远游.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/合订本 时间的绳让我们成为旅行者.md",
+                "file": "content/posts/年度总结 2023：远游.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/合订本 时间的绳让我们成为旅行者.md"
+                "file": "content/posts/年度总结 2023：远游.md"
               }
             }
           },
@@ -173,12 +173,13 @@
   },
   "active": "7dd2dccd52c8ab27",
   "lastOpenFiles": [
-    "content/posts/月记录 二月：从白天驶入黑夜，aka开学了.md",
-    "content/posts/合订本 时间的绳让我们成为旅行者.md",
-    "content/posts/会意集 爱情作为一种宗教信仰.md",
-    "content/posts/月记录 八月到十二月：新世界.md",
+    "obsidian folder/template/font-matter template.md",
     "content/posts/年度总结 2023：远游.md",
     "content/posts/2022年度文化生活总结.md",
+    "content/posts/合订本 时间的绳让我们成为旅行者.md",
+    "content/posts/月记录 二月：从白天驶入黑夜，aka开学了.md",
+    "content/posts/会意集 爱情作为一种宗教信仰.md",
+    "content/posts/月记录 八月到十二月：新世界.md",
     "content/posts/会意集 该爱的不该爱的还是都爱了.md",
     "content/friends/index.md",
     "content/posts/月记录 七月：我免费啦！.md",
@@ -209,7 +210,6 @@
     "content/posts/剪贴簿 Vol.3：【专题】ChatGPT的有用与无用.md",
     "content/posts/剪贴簿 Vol.2：但是世界不只一种颜色.md",
     "content/posts/云游记 重庆：去河床上踏青.md",
-    "content/posts/云游记 南京：像是去不太熟但很喜欢的朋友家玩了一圈.md",
-    "content/posts/剪贴簿 Vol.1：公民有无义务服从国家？.md"
+    "content/posts/云游记 南京：像是去不太熟但很喜欢的朋友家玩了一圈.md"
   ]
 }
