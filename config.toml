@@ -1,8 +1,8 @@
-baseURL = "https://supernovaradio.live"
+baseURL = "https://ineternallineswe.live"
 languageCode = "zh-cn"
-title = "超新星电台"
+title = "休洗红"
 theme = "cactus"
-copyright = "超新星电台" # cactus will use title if copyright is not set
+copyright = "休洗红" # cactus will use title if copyright is not set
 # disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
 # googleAnalytics = "UA-1234-5"
 hasCJKLanguage = true
@@ -34,9 +34,14 @@ url = "/tags"
 weight = 4
 
 [[menu.main]]
+name = "Categories"
+url = "/categories"
+weight = 5
+
+[[menu.main]]
 name = "Friends"
 url = "/friends"
-weight = 5
+weight = 6
 
 [markup]
   [markup.tableOfContents]
@@ -65,7 +70,7 @@ weight = 5
   showAllPostsArchive = false # default
 
   # Home page settings
-  description = "天空一无所有/为何给我安慰"
+  description = "渭城已远波声小。"
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 0 # this option will be ignored if showAllPostsOnHomePage is set to true
