@@ -6,7 +6,7 @@ $color-background-code: darken($color-background, 2%);
 $color-border: #666;
 $color-meta: #666;
 $color-meta-code: lighten($color-meta, 10%);
-$color-link: rgb(204, 66, 56);
+$color-link: rgba(119, 44, 44, 0.565);
 // h4, h5, h6, p
 $color-text: #333333;
 // meta Color
@@ -14,5 +14,5 @@ $color-accent-3: #8c8c8c;
 // h2, h3
 $color-accent-2: #383838;
 // h1
-$color-accent-1: #fd2600;
-$color-quote: #fd2600;
+$color-accent-1: rgba(119, 44, 44);
+$color-quote: rgba(119, 44, 44);
