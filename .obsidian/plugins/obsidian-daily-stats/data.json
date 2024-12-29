@@ -43,28 +43,13 @@
     "2024/0/10": 5,
     "2024/5/18": 44,
     "2024/7/13": 0,
-    "2024/7/14": 70
+    "2024/7/14": 70,
+    "2024/11/29": 34
   },
   "todaysWordCount": {
-    "obsidian folder/template/font-matter template.md": {
-      "initial": 11,
-      "current": 12
-    },
-    "content/posts/年度总结 2023：远游.md": {
-      "initial": 4004,
-      "current": 4036
-    },
-    "content/posts/月记录 八月到十二月：新世界.md": {
-      "initial": 2059,
-      "current": 2082
-    },
-    "content/posts/合订本 时间的绳让我们成为旅行者.md": {
-      "initial": 2527,
-      "current": 2541
-    },
-    "content/posts/会意集 不是什么好兆头.md": {
-      "initial": 1834,
-      "current": 1834
+    "content/posts/云游记 日本：约定之外的梦幻岛.md": {
+      "initial": 7983,
+      "current": 8017
     }
   }
 }
