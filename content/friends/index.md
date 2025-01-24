@@ -13,6 +13,5 @@ date: 2022-08-14 10:59
 - [The Wandering Allison](https://thewanderingallison.github.io)
 - [车前我](https://jiapingplus.icu)
 - [再會，謝謝所有的魚](https://gregueria.icu)
-
-鸣谢：
 - [小球飞鱼](https://mantyke.icu)
+- [一支咏叹调](https://turquoise.one)
