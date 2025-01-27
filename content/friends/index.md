@@ -15,3 +15,4 @@ date: 2022-08-14 10:59
 - [再會，謝謝所有的魚](https://gregueria.icu)
 - [小球飞鱼](https://mantyke.icu)
 - [一支咏叹调](https://turquoise.one)
+- [第三夏尔](https://thirdshire.com)
